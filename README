@@ -1,1 +1,7 @@
-Test
+GREASEMONKEY SCRIPTS
+====================
+
+get_medieval.js:
+
+URL:  https://userscripts.org/scripts/show/68744
+DESC: Fixes broken images at http://get-medieval.livejournal.com/ The various comic links are missing the ".gif" at the end. In a few months all the existing image links should be fixed, so this script won't be needed anymore.
