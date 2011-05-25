@@ -2,7 +2,7 @@
 // @name           Get Medieval
 // @namespace      http://get-medieval.livejournal.com/
 // @description    Fixes broken comic images.
-// @include        http://get-medieval.livejournal.com/
+// @include        http://get-medieval.livejournal.com/*
 // ==/UserScript==
 
 var images = document.getElementsByTagName('img');
